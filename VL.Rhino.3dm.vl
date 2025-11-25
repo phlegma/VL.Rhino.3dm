@@ -1,6 +1,6 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<Document xmlns:p="property" xmlns:r="reflection" Id="LpPc3a7UstmMfWIcJgD7q7" LanguageVersion="2025.7.1-0101-ge364e43d33" Version="0.128">
-  <NugetDependency Id="RKFCmk1Lg5EP3I4IQegLTw" Location="VL.CoreLib" Version="2025.7.1-0101-ge364e43d33" />
+<Document xmlns:p="property" xmlns:r="reflection" Id="LpPc3a7UstmMfWIcJgD7q7" LanguageVersion="2025.7.1-0106-gc0edd1f65b" Version="0.128">
+  <NugetDependency Id="RKFCmk1Lg5EP3I4IQegLTw" Location="VL.CoreLib" Version="2025.7.1-0106-gc0edd1f65b" />
   <Patch Id="Th8hpfHvBF4Lk6VOwDCc9D">
     <Canvas Id="NtZT52Xp5qNOXK0fF2H7kv" DefaultCategory="Graphics.Rhino.3dm" CanvasType="FullCategory">
       <!--
@@ -11554,7 +11554,7 @@
         </p:NodeReference>
         <Patch Id="Lbmjn5FTKBEOTaB0wDCTN8">
           <Canvas Id="H3dyvmrU3mvNvTMWQT8ewS" CanvasType="Group">
-            <Node Bounds="394,141,65,19" Id="TINBJAnk6NjQOuYxH9yDCJ">
+            <Node Bounds="348,170,65,19" Id="TINBJAnk6NjQOuYxH9yDCJ">
               <p:NodeReference LastCategoryFullName="Primitive.Object" LastDependency="VL.CoreLib.vl">
                 <Choice Kind="NodeFlag" Name="Node" Fixed="true" />
                 <Choice Kind="OperationCallFlag" Name="IsAssigned" />
@@ -11584,7 +11584,7 @@
                     <Choice Kind="ProcessStatefulRegion" Name="Cache" />
                     <CategoryReference Kind="Category" Name="Primitive" />
                   </p:NodeReference>
-                  <Pin Id="TFm5DNDxe3zOx2g1hHHE9U" Name="Force" Kind="InputPin" DefaultValue="True" />
+                  <Pin Id="TFm5DNDxe3zOx2g1hHHE9U" Name="Force" Kind="InputPin" />
                   <Pin Id="MwvJCOifBkmOHtzfsBHWnT" Name="Dispose Cached Outputs" Kind="InputPin" />
                   <Pin Id="B8yWydZfn2ZQcZ2sbdz0hh" Name="Has Changed" Kind="OutputPin" />
                   <ControlPoint Id="NGzR9pOjbF8N4jZouyugVN" Bounds="591,327" Alignment="Top" />
@@ -12407,7 +12407,7 @@
             </Node>
             <ControlPoint Id="IVOk6JdAQUGNmcBd4iHPBE" Bounds="1045,96" />
             <ControlPoint Id="BQEof12QYggO5bCnJb1YiP" Bounds="1173,96" />
-            <Node Bounds="391,173,37,19" Id="MurdcPsHtWXLtgj4gV34DX">
+            <Node Bounds="348,210,37,19" Id="MurdcPsHtWXLtgj4gV34DX">
               <p:NodeReference LastCategoryFullName="Primitive.Boolean" LastDependency="VL.CoreLib.vl">
                 <Choice Kind="NodeFlag" Name="Node" Fixed="true" />
                 <Choice Kind="OperationCallFlag" Name="AND" />
@@ -15704,8 +15704,8 @@
       </Patch>
     </Node>
   </Patch>
-  <NugetDependency Id="BZG0wb3qQqcM7tQUdipLIu" Location="VL.Stride" Version="2025.7.1-0101-ge364e43d33" />
+  <NugetDependency Id="BZG0wb3qQqcM7tQUdipLIu" Location="VL.Stride" Version="2025.7.1-0106-gc0edd1f65b" />
   <NugetDependency Id="CXubKntkf96N781SJal9ii" Location="Rhino3dm" IsForward="true" Version="8.9.0" />
   <PlatformDependency Id="K6zKOuz09xoPxD93M7WU3p" Location="System.Collections.Specialized" />
-  <NugetDependency Id="Mm8thTQ4hIxNZVnLO5irWp" Location="VL.Stride.TextureFX" Version="2025.7.1-0101-ge364e43d33" />
+  <NugetDependency Id="Mm8thTQ4hIxNZVnLO5irWp" Location="VL.Stride.TextureFX" Version="2025.7.1-0106-gc0edd1f65b" />
 </Document>
